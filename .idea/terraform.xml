@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TerraformProjectSettings">
+    <option name="ignoredTemplateCandidatePaths">
+      <set>
+        <option value="file://$PROJECT_DIR$/midigen/taskdefs/task_definition.json" />
+      </set>
+    </option>
+  </component>
+</project>
